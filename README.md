@@ -15,4 +15,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=athul28&show_icons=true&locale=en&layout=compact" alt="athul28" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athul28&" alt="athul28" /></p>
