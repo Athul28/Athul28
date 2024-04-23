@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI and ML**
 
-- Portfolio [https://athul28.github.io/my_site/](https://athul28.github.io/my_site/)
+- Portfolio [https://athulbhandary-portfolio.vercel.app/](https://athulbhandary-portfolio.vercel.app/)
 
 - 📫 How to reach me **athulbhandary28@gmail.com**
 
