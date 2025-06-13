@@ -75,7 +75,7 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=athul28&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=athul28&show_icons=true&locale=en&layout=compact&theme=dark&hide=Jupyter%20Notebook" alt="Top Languages" />
   </p>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=athul28&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
