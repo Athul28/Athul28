@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Athul Bhandary</h1>
 <h3 align="center">A Passionate Programmer from India</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://holopin.io/@athul28">
     <img src="https://holopin.me/athul28" alt="Holopin badges" />
   </a>
-</p>
+</p> -->
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=athul28&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -85,9 +87,8 @@
   </p>
 </div>
 
----
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athul28/athul28/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athul28/athul28/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+</picture> -->
